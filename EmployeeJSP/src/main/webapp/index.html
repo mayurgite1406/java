@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Information</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+
+        .container {
+            background-color: white;
+            width: 350px;
+            margin: 50px auto;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+
+        input {
+            width: 90%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 25px;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>Employee Information</h2>
+
+        <form action="display.jsp" method="post">
+
+            <input type="number" name="employeeId"
+                   placeholder="Employee ID" required>
+
+            <input type="text" name="employeeName"
+                   placeholder="Employee Name" required>
+
+            <input type="text" name="department"
+                   placeholder="Department" required>
+
+            <input type="text" name="designation"
+                   placeholder="Designation" required>
+
+            <input type="email" name="email"
+                   placeholder="Email Address" required>
+
+            <br><br>
+
+            <button type="submit">Submit</button>
+
+        </form>
+
+    </div>
+
+</body>
+</html>

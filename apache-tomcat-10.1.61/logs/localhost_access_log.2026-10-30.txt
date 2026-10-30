@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Oct/2026:10:38:17 +0530] "GET /EmployeeJSP/ HTTP/1.1" 200 1711
+127.0.0.1 - - [30/Oct/2026:10:38:17 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [30/Oct/2026:10:38:37 +0530] "POST /EmployeeJSP/display.jsp HTTP/1.1" 200 1383
+127.0.0.1 - - [30/Oct/2026:11:15:39 +0530] "POST /EmployeeJSP/display.jsp HTTP/1.1" 200 1382

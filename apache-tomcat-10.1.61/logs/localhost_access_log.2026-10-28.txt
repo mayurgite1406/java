@@ -1,0 +1,13 @@
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /?utm_source=chatgpt.com HTTP/1.1" 200 11437
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /tomcat.css HTTP/1.1" 200 5981
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /tomcat.svg HTTP/1.1" 200 68761
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /bg-nav.png HTTP/1.1" 200 1401
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /asf-logo-wide.svg HTTP/1.1" 200 7147
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /bg-button.png HTTP/1.1" 200 713
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /bg-upper.png HTTP/1.1" 200 3103
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /bg-middle.png HTTP/1.1" 200 1918
+127.0.0.1 - - [28/Oct/2026:09:07:31 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [28/Oct/2026:09:10:10 +0530] "GET /EmployeeJSP/index.html?utm_source=chatgpt.com HTTP/1.1" 200 1711
+127.0.0.1 - - [28/Oct/2026:09:10:59 +0530] "POST /EmployeeJSP/display.jsp HTTP/1.1" 200 1384
+127.0.0.1 - - [28/Oct/2026:09:11:42 +0530] "POST /EmployeeJSP/display.jsp HTTP/1.1" 200 1381
+127.0.0.1 - - [28/Oct/2026:09:12:22 +0530] "POST /EmployeeJSP/display.jsp HTTP/1.1" 200 1379
